@@ -1,0 +1,4 @@
+baseURL = "https://tifayang.github.io/enjoyremotework"
+languageCode = "en-us"
+title = "Future Worker"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
