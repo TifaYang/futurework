@@ -1,4 +1,4 @@
-baseURL = "https://tifayang.github.io/futurework.github.io/"
+baseURL = 'http://example.org/'
 languageCode = "en-us"
 title = "Future Worker"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
